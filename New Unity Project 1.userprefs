@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="72" Column="4" />
+      <File FileName="Assets/PrintStatus.cs" Line="12" Column="42" />
+      <File FileName="Assets/Enemy.cs" Line="81" Column="43" />
+      <File FileName="Assets/NestScript.cs" Line="49" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Enemy.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True" />
+          <Node name="Assembly-UnityScript" expanded="True" />
+          <Node name="Assembly-UnityScript-Editor" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
